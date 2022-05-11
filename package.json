@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeong-Yun/blockchain-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeong-Yun/blockchain-typescript/issues"
+  },
+  "homepage": "https://github.com/Hyeong-Yun/blockchain-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
